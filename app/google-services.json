@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822499757589",
+    "project_id": "tingofarm-a5277",
+    "storage_bucket": "tingofarm-a5277.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822499757589:android:c4a8935dc58d8e2361481c",
+        "android_client_info": {
+          "package_name": "com.example.tingofarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRb25cmyZMPqFbi0krincGRGYSzAxN99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
